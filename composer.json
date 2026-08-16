@@ -53,6 +53,8 @@
     "scripts": {
         "test": "pest",
         "test:types": "phpstan analyse",
-        "format": "pint"
+        "format": "pint",
+        "release": "npx release-it",
+        "release:dry": "npx release-it --dry-run"
     }
 }
