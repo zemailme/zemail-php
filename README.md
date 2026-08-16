@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/zemailme/zemail-php.svg?style=flat-square)](https://packagist.org/packages/zemailme/zemail-php)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/zemailme/zemail-php/tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/zemailme/zemail-php/actions?query=workflow%3ATests+branch%3Amain)
 [![PHP Version](https://img.shields.io/packagist/php-v/zemailme/zemail-php.svg?style=flat-square)](https://packagist.org/packages/zemailme/zemail-php)
-[![License](https://img.shields.io/packagist/l/zemailme/zemail-php.svg?style=flat-square)](https://packagist.org/packages/zemailme/zemail-php)
+[![License](https://img.shields.io/github/license/zemailme/zemail-php?style=flat-square)](https://github.com/zemailme/zemail-php/blob/main/LICENSE)
 
 The official PHP SDK for the [Zemail Developer API](https://zemail.me/api-docs). Create and manage temporary mailboxes, receive emails, and handle attachments programmatically.
 
