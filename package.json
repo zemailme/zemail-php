@@ -1,0 +1,13 @@
+{
+  "name": "zemail-php",
+  "private": true,
+  "description": "Release automation tools for Zemail PHP SDK",
+  "scripts": {
+    "release": "release-it",
+    "release:dry": "release-it --dry-run"
+  },
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^10.0.0",
+    "release-it": "^18.1.2"
+  }
+}
