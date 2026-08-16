@@ -13,6 +13,20 @@
         "phpstan/phpstan": "^2.2",
         "laravel/pint": "^1.30"
     },
+    "keywords": [
+        "zemail",
+        "temp-mail",
+        "temporary-email",
+        "disposable-email",
+        "email-api",
+        "php-sdk"
+    ],
+    "homepage": "https://zemail.me",
+    "support": {
+        "issues": "https://github.com/zemailme/zemail-php/issues",
+        "source": "https://github.com/zemailme/zemail-php",
+        "docs": "https://zemail.me/api-docs"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
