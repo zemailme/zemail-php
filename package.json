@@ -9,5 +9,6 @@
   "devDependencies": {
     "@release-it/conventional-changelog": "^10.0.0",
     "release-it": "^18.1.2"
-  }
+  },
+  "version": "1.0.0"
 }
